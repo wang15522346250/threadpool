@@ -42,6 +42,6 @@ public class IOCAOP {
      * BeanFactory是提供了OC容器最基本的形式 
      * 它能指导我们如何设计出松耦合、更优良的程序
      *
-     * threadpool
+     * threadpool  yes 
      */
 }
